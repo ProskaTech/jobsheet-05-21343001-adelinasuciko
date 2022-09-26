@@ -2,6 +2,7 @@
 Nama : ADELINA SUCIKO
 Nim : 21343001
 Analisis Jobsheet 5:
+
 Pada jobsheet ini menggunakan class Scanner, BufferedReader, JOptionPane
 a. Scanner merupakan class yang menyediakan fungsi-fungsi untuk mengambil input dari keyboard. Untuk menggunakan Scanner, kita perlu mengimpor ke dalam kode: import java.util.Scanner; Dalam Scanner tidak perlu mengkonversikan variabel lain ketika ada perhitungan matematika dan bisa langsung dihtiung. 
 
